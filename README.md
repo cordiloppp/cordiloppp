@@ -3,8 +3,8 @@
 Estudiante de Ingeniería en Software próximo a graduarme. Construyo aplicaciones web full-stack
 y productos reales para negocios locales: invitaciones digitales, menús y catálogos con pedidos por WhatsApp.
 
-🌐 **Portafolio:** https://portafolio-inky-theta-84.vercel.app
-💼 Buscando mi primera posición como **Junior / Trainee**.
+- 🌐 **Portafolio:** https://portafolio-inky-theta-84.vercel.app
+- 💼 Buscando mi primera posición como **Junior / Trainee**.
 
 ## Proyectos destacados
 
@@ -18,7 +18,7 @@ y productos reales para negocios locales: invitaciones digitales, menús y catá
 
 ## Stack
 
-**Frontend:** React · Next.js · TypeScript · Tailwind CSS · Vite
-**Backend:** Python (FastAPI) · Go · Node.js
-**Datos:** PostgreSQL · SQLAlchemy · sqlc
-**Herramientas:** Git · Docker · Vercel · Pytest · Playwright
+- **Frontend:** React · Next.js · TypeScript · Tailwind CSS · Vite
+- **Backend:** Python (FastAPI) · Go · Node.js
+- **Datos:** PostgreSQL · SQLAlchemy · sqlc
+- **Herramientas:** Git · Docker · Vercel · Pytest · Playwright
